@@ -1,0 +1,18 @@
+{
+  "name": "starter-kit",
+  "author": "Fatemeh Sayad",
+  "email": "sayadfati464@gmail.com",
+  "repository": "https://github.com/FatemehSayad29/starter-kit",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "build": "tsc",
+    "dev": "tsx watch src/index.ts"
+  },
+  "packageManager": "yarn@4.18.0",
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
