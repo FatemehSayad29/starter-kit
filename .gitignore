@@ -10,6 +10,9 @@
 .yarn/install-state.gz
 dist/
 .DS_Store
+node_modules
+dist
+.env
 
 # Whether you use PnP or not, the node_modules folder is often used to store
 # build artifacts that should be gitignored
